@@ -7,9 +7,9 @@ This code was implemented using Javascript
 
 ### Prerequisites
 
-This code can be run using
-Visual Studio Code: https://code.visualstudio.com
-Git Bash: https://gitforwindows.org
+This code can be run using <br/>
+Visual Studio Code: https://code.visualstudio.com <br/>
+Git Bash: https://gitforwindows.org <br/>
 Live Server (VS Code plugin)
 
 ### Running the application
