@@ -16,3 +16,7 @@ Live Server (VS Code plugin)
 
 Open VS Code's console and type npm start
 With Live Server plugin enabled on VS Code, access localhost:3000 on the browser
+
+### Project
+
+This is the sequence of images of how the project is designed: https://imgur.com/a/GQKpWsl
